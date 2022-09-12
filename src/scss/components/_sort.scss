@@ -36,6 +36,9 @@
     overflow: hidden;
     padding: 10px 0;
     width: 160px;
+    @media (max-width: 575px) {
+      right: -60px;
+    }
 
     ul {
       overflow: hidden;

@@ -3,9 +3,6 @@
 .categories {
   ul {
     display: flex;
-    @media (max-width: 740px) {
-      flex-direction: column;
-    }
 
     li {
       background-color: #f9f9f9;
@@ -16,10 +13,13 @@
       cursor: pointer;
       transition: background-color 0.1s ease-in-out;
       @media (max-width: 950px) {
-        font-size: 10px;
+        font-size: 13px;
       }
       @media (max-width: 740px) {
         margin-bottom: 10px;
+      }
+      @media (max-width: 575px) {
+        padding: 8px 20px;
       }
 
       &:hover {
@@ -40,7 +40,7 @@
 
 .sort {
   @media (max-width: 950px) {
-    font-size: 10px;
+    font-size: 15px;
 
   }
   @media (max-width: 740px) {

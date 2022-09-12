@@ -38,6 +38,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    @media (max-width: 575px) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .categories {
+      margin-bottom: 10px;
+    }
   }
 }
 
@@ -122,6 +129,9 @@ body {
       align-items: center;
       margin-right: 15px;
       width: 10%;
+      @media (max-width: 575px) {
+        display: none;
+      }
 
       img {
         width: 80px;
@@ -134,6 +144,9 @@ body {
       flex-direction: column;
       justify-content: center;
       width: 40%;
+      @media (max-width: 575px) {
+        width: 35%;
+      }
 
       h3 {
         font-weight: bold;
@@ -153,6 +166,9 @@ body {
       align-items: center;
       justify-content: space-between;
       width: 13%;
+      @media (max-width: 575px) {
+        width: 30%;
+      }
 
       &-minus {
         svg {
@@ -281,6 +297,9 @@ body {
     margin: 0 auto;
     width: 560px;
     text-align: center;
+    @media (max-width: 575px) {
+      width: auto;
+    }
 
     h2 {
       font-size: 32px;

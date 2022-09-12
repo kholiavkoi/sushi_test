@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import {Header} from "./components";
 import {Cart, Home} from "./pages";
 import {Route, Routes} from "react-router-dom";
