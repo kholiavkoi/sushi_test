@@ -1,0 +1,94 @@
+{
+  "sushi": [
+    {
+      "id": 0,
+      "imageUrl": "https://i.pinimg.com/564x/05/06/5b/05065b8b6c421b0082fa55a4ed72d563.jpg",
+      "name": "Gunkan Maki",
+      "types": [0, 1],
+      "price": 14,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://i.pinimg.com/564x/0c/ff/e2/0cffe2e00e0768f36e23d35a070bdef4.jpg",
+      "name": "Makizushi",
+      "types": [0,1],
+      "price": 12,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://i.pinimg.com/564x/be/d3/df/bed3dfc01193f75720fd41be8993d288.jpg",
+      "name": "Temaki",
+      "types": [0],
+      "price": 32,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://i.pinimg.com/564x/a7/d1/bc/a7d1bce30fa39f95dba192600d686aac.jpg",
+      "name": "Hirame",
+      "types": [0,1],
+      "price": 10,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://i.pinimg.com/564x/1c/b1/7f/1cb17fa03ea7557866a8d59087842d40.jpg",
+      "name": "Tobiko",
+      "types": [0, 1],
+      "price": 18,
+      "category": 1,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i.pinimg.com/564x/22/3e/55/223e55b61a3d293a791acfcab70a17ac.jpg",
+      "name": "Sasazushi",
+      "types": [1],
+      "price": 29,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://i.pinimg.com/564x/0c/66/83/0c6683f0bd3411736c925bbea5546a20.jpg",
+      "name": "Temari",
+      "types": [0, 1],
+      "price": 27,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://i.pinimg.com/564x/d3/88/5f/d3885f1ec04a7c6a7d36f293321ac2b1.jpg",
+      "name": "Anago",
+      "types": [0, 1],
+      "price": 17,
+      "category": 0,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.pinimg.com/564x/4e/f5/bd/4ef5bdea016d49f10bb04088d25daaf2.jpg",
+      "name": "Saba",
+      "types": [0, 1],
+      "price": 25,
+      "category": 2,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://i.pinimg.com/564x/17/dc/e7/17dce7d52d7fa7be959ca06e6fce10f3.jpg",
+      "name": "Unagi",
+      "types": [0, 1],
+      "price": 24,
+      "category": 0,
+      "rating": 7
+    }
+  ]
+}
